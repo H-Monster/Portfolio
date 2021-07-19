@@ -1,10 +1,10 @@
-## Portfolio
+## Web Portfolio
 
 ---
 
-### Category Name 1 
+### Dog Wash II
 
-[Project 1 Title](/sample_page)
+[Promotional site for the award winning video game](/sample_page)
 <img src="images/dogwashimg.jpg?raw=true"/>
 
 ---
