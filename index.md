@@ -8,11 +8,13 @@
 <img src="images/dogwashimg.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Manuka Honey
+[Infromational page a about the rarest honey on the planet](/pdf/sample_presentation.pdf)
 <img src="images/honeyimg2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Research Template
+[Back end Google doc for nontechinal collabrations](http://example.com/)
 <img src="images/ugrimg.jpg?raw=true"/>
 
 ---
