@@ -21,11 +21,11 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://h-monster.github.io/Manuka_Honey//)
 - [Project 2 Title](https://h-monster.github.io/Manuka_Honey/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 3 Title](https://h-monster.github.io/Manuka_Honey/)
+- [Project 4 Title](https://h-monster.github.io/Manuka_Honey//)
+- [Project 5 Title](https://h-monster.github.io/Manuka_Honey/)
 
 ---
 
