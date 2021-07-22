@@ -9,7 +9,7 @@
 
 ---
 ### Manuka Honey
-[Infromational page a about the rarest honey on the planet](/pdf/sample_presentation.pdf)
+[Infromational page a about the rarest honey on the planet](<a href="https://h-monster.github.io/Manuka_Honey/"></a>)
 <img src="images/honeyimg2.png?raw=true"/>
 
 ---
